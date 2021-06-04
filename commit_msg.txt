@@ -1,0 +1,3 @@
+v8.2- Correct flags indication at game end, Dedicated option to create shortcut on desktop, Improved app stability!
+
+* In case github.com change their HTML such that in-app update feature fails to parse latest version details (the commit message) from https://github.com/samyak1409/Minesweeper-for-PC/commit/master, will fetch from here. *
