@@ -1,5 +1,7 @@
 # Minesweeper! 💣
 
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows"> <img src="https://img.shields.io/badge/python-v3.9-blue"> <img src="https://awesome.re/badge.svg">
+
 
 ## Description
 
@@ -10,7 +12,9 @@
 It was removed with _Windows 8_.
 
 ### Coming back here
-This repository contains a all new revamped version of Minesweeper with tons of features! 🔥
+This repository contains an all new revamped version of Minesweeper with tons of features! 🔥
+
+<img src="https://forthebadge.com/images/badges/for-you.svg" width=100>
 
 ### Feature Highlights
 - Customizable background music 🎶
@@ -62,4 +66,12 @@ This repository contains a all new revamped version of Minesweeper with tons of 
 
 ## [Feedback 💌](https://github.com/samyak1409/Minesweeper-for-PC#:~:text=In-app%20feedback%20option%20%F0%9F%92%8C)
 
-Please do send your valuable reviews, I will be very thankful! : )
+Please do send your valuable reviews, I will be very thankful! :)
+
+
+## Written in
+<img src="https://www.python.org/static/img/python-logo.png">
+
+
+## 
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" width=200>
