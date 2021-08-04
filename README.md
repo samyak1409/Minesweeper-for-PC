@@ -58,7 +58,7 @@ This repository contains an all new revamped version of Minesweeper with tons of
 
 ## Installation Steps
 
-1. [Download this ZIP](https://github.com/samyak1409/Minesweeper-for-PC/archive/refs/heads/master.zip)
+1. [Download this ZIP](https://github.com/samyak1409/Minesweeper-for-PC/archive/refs/heads/main.zip)
 2. Extract it
 3. Do go through `INFO.docx` once before launching the game for the very first time
 4. Launch the Game! (`Minesweeper (64-bit).exe`)
