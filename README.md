@@ -19,7 +19,7 @@ This repository contains an all new revamped version of Minesweeper with tons of
 ### Feature Highlights
 - Customizable background music 🎶
 - 3 game difficulties 🧠
-- Secured best time records (with cheating detection ✔)
+- Secured best time records (with cheating detection mechanism ✔)
 - Customizable color themes 🌈
 - 2 types of grid styles 🔳
 - In-app feedback option 💌
@@ -54,6 +54,23 @@ This repository contains an all new revamped version of Minesweeper with tons of
 <img src="Sample%20Screenshots/10%20Transparent%20Background.png">
 
 [More Screenshots](Sample%20Screenshots)
+
+
+## Future Features
+
+1) Option to play your offline music playlist as background music. 😍
+
+2) Error Logging 🙌
+
+3) Hint after a particular time 🕒 if user is not able to find the mines.
+
+4) Tons of game stats 📊 like "No. of games played", "Games won", "Win percentage", "Streak", "Longest winning streak", "Longest losing streak", "Game screen time", etc.
+
+5) [Advanced wraparound mode](https://youtu.be/-CH-Kx2sl9c) ☠
+
+6) Password Lock 🔐 (maybe using [environment variable](https://en.wikipedia.org/wiki/Environment_variable))
+
+7) In-built Minesweeper solver 💥 (hard one but will try 😅)
 
 
 ## Installation Steps

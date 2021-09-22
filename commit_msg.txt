@@ -1,3 +1,3 @@
-v9.4- Bug fixes; Improvements; Now Copyright and Version Label will be responsive!
+v9.5- Minor Update!
 
 * In case github.com change their HTML such that in-app update feature fails to parse the latest version details (the commit message) from https://github.com/samyak1409/Minesweeper-for-PC/commit/master, will fetch from here. *

@@ -1,8 +1,7 @@
-Minesweeper (console).py
-DB (console).sqlite
 Minesweeper.py
 DB.sqlite
 Stuff.py
 ATTACH ME.png
-Dev-notes.txt
+DevNotes.txt
 A_commonly_used_style_for_many_microsoft_games,_originating_with_Microsoft_Minesweeper.png
+__pycache__
