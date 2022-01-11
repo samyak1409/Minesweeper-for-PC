@@ -1,13 +1,13 @@
 # Minesweeper! 💣
 
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows"> <img src="https://img.shields.io/badge/python-v3.9-blue"> <img src="https://awesome.re/badge.svg">
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows"> <img src="https://img.shields.io/badge/python-v3.10-blue"> <img src="https://awesome.re/badge.svg">
 
 
 ## Description
 
 [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) basically is a classical puzzle video game, most probably many of us have seen in _Windows 7_, which looked like this
 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/96/A_commonly_used_style_for_many_microsoft_games%2C_originating_with_Microsoft_Minesweeper.png">
+<img src="A_commonly_used_style_for_many_microsoft_games%2C_originating_with_Microsoft_Minesweeper.png">
 
 It was removed with _Windows 8_.
 
