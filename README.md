@@ -1,4 +1,4 @@
-# Minesweeper! 💣
+# Minesweeper 💣
 
 <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" height=28 alt="Made with ❤️"> <img src="https://img.shields.io/badge/For-Windows-blue?style=for-the-badge&labelColor=gray" alt="Windows">
 
@@ -30,18 +30,18 @@ This repository houses a completely reimagined and feature-packed version of Min
 
 ## 🚀 Feature Highlights
 
-* 🎶 **Customizable background music**
-* 🧠 **3 Difficulty Levels**
-* 🔒 **Secure best-time records** with built-in anti-cheat mechanism
-* 🌈 **Color theme customization** for UI personalization
-* 🔳 **Two grid styles**: Choose your preferred layout
-* 💌 **In-app feedback system**
-* 🌟 **Auto-update mechanism** (GitHub-distributed)
-* 🔀 **Option to invert game controls** for alternate play style
-* 🧩 **Custom Minesweeper mode** to reduce forced guess situations
-* 👀 **Grid transition animations**
-* 👨‍💻 **Focus Mode** for a minimal, distraction-free interface
-* ✨ **Transparent background** mode
+- 🎶 **Customizable background music**
+- 🧠 **3 Difficulty Levels**
+- 🔒 **Secure best-time records** with built-in anti-cheat mechanism
+- 🌈 **Color theme customization** for UI personalization
+- 🔳 **Two grid styles**: Choose your preferred layout
+- 💌 **In-app feedback system**
+- 🌟 **Auto-update mechanism** (GitHub-distributed)
+- 🔀 **Option to invert game controls** for alternate play style
+- 🧩 **Custom Minesweeper mode** to reduce forced guess situations
+- 👀 **Grid transition animations**
+- 👨‍💻 **Focus Mode** for a minimal, distraction-free interface
+- ✨ **Transparent background** mode
 
 
 
@@ -82,13 +82,13 @@ This repository houses a completely reimagined and feature-packed version of Min
 
 ## 🧪 Future Features
 
-* 🎧 Support for local music playlist as background music
-* 🐞 Error logging
-* 💡 Hint if the player is stuck for too long
-* 📊 Game statistics dashboard: games played, win %, streaks, playtime, etc.
-* 🔁 [Advanced wraparound mode](https://youtu.be/-CH-Kx2sl9c)
-* 🔐 Password-protected launch (maybe using [environment variable](https://en.wikipedia.org/wiki/Environment_variable))
-* 🧠 Built-in Minesweeper solver (hard one but will try!)
+- 🎧 Support for local music playlist as background music
+- 🐞 Error logging
+- 💡 Hint if the player is stuck for too long
+- 📊 Game statistics dashboard: games played, win %, streaks, playtime, etc.
+- 🔁 [Advanced wraparound mode](https://youtu.be/-CH-Kx2sl9c)
+- 🔐 Password-protected launch (maybe using [environment variable](https://en.wikipedia.org/wiki/Environment_variable))
+- 🧠 Built-in Minesweeper solver (hard one but will try!)
 
 
 
